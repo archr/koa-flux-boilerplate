@@ -1,0 +1,8 @@
+{
+  "name": "apparel-admin-client",
+  "dependencies": {
+    "bootstrap-less": "~3.3.4",
+    "components-font-awesome": "~4.3.0",
+    "jquery": "~2.1.4"
+  }
+}
